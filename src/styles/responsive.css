@@ -1,0 +1,40 @@
+@media (max-width: 580px) {
+    .menu-item {
+        font-size: 15px;
+    }
+
+    .image-area {
+        height: 130px;
+    }
+
+    .divider {
+        height: 30px;
+    }
+
+    .container h2 {
+        font-size: 25px;
+    }
+
+    .type p {
+        font-size: 18px;
+    }
+
+    .type {
+        margin: 100px 0;
+    }
+
+    .first-half {
+        height: 70vh;
+    }
+
+    .upper-section {
+        padding: 8px;
+    }
+}
+
+@media (max-width: 750px) {
+    .project {
+        flex-wrap: wrap;
+        max-width: 350px;
+    }
+}
